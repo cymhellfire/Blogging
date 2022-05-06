@@ -1,0 +1,29 @@
+﻿{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "2022.1.0.125",
+  "FriendlyName": "RiderLink",
+  "Description": "Plugin for establishing IPC connection with JetBrains Rider IDE",
+  "Category": "Programming",
+  "CreatedBy": "JetBrains",
+  "CreatedByURL": "https://www.jetbrains.com/",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": false,
+  "IsBetaVersion": true,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "CustomizeTrack",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "CustomizeTrackEditor",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "EnabledByDefault": true
+}

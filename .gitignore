@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# VS Code
+.idea/*
+
+# Rider plugin
+Plugins/Developer/RiderLink/*
